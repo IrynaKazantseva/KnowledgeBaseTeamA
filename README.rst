@@ -63,6 +63,12 @@ Markdown editor
 * `example _01 <https://git-scm.com/docs/gitignore>`_
 * `example _02 <https://gist.github.com/octocat/9257657>`_
 
+----------------
+branch
+----------------
+
+* `Pабота<https://www.youtube.com/watch?v=SZARWakrCro&index=22&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_  с ветками для начинающих. 
+
 
 ============
 Continuous Integration
