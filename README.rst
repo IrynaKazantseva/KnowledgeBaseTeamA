@@ -42,11 +42,11 @@ On GitHub, if a Git repository has a README file in its main (top-level) directo
 
 Please use the following templates:  
 
-* `example _01 <https://github.com/dbader/readme-template>`_ 
-* `example _02 <https://gist.github.com/PurpleBooth/109311bb0361f32d87a2>`_ 
-* `example _03 <https://dbader.org/blog/write-a-great-readme-for-your-github-project>`_ 
-* `example _04 <https://github.com/prose/prose>`_ 
-* `example _05 <https://github.com/matiassingers/awesome-readme>`_ 
+* `example 01 <https://github.com/dbader/readme-template>`_ 
+* `example 02 <https://gist.github.com/PurpleBooth/109311bb0361f32d87a2>`_ 
+* `example 03 <https://dbader.org/blog/write-a-great-readme-for-your-github-project>`_ 
+* `example 04 <https://github.com/prose/prose>`_ 
+* `example 05 <https://github.com/matiassingers/awesome-readme>`_ 
 * `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_
 
 
@@ -60,14 +60,14 @@ Markdown editor
 .gitignore
 ----------------
 
-* `example _01 <https://git-scm.com/docs/gitignore>`_
-* `example _02 <https://gist.github.com/octocat/9257657>`_
+* `example 01 <https://git-scm.com/docs/gitignore>`_
+* `example 02 <https://gist.github.com/octocat/9257657>`_
 
 ----------------
 branch
 ----------------
 
-* `Pабота<https://www.youtube.com/watch?v=SZARWakrCro&index=22&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_  с ветками для начинающих. 
+* `Pабота <https://www.youtube.com/watch?v=SZARWakrCro&index=22&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_  с ветками для начинающих. 
 
 
 ============
@@ -93,3 +93,66 @@ Jenkins
 
 *  `YouTube <https://www.youtube.com/watch?v=lTQGi5jzjvo>`_ tutorial.
 
+
+-------------------
+Bamboo
+-------------------
+
+
+============
+Code Coverage
+============
+
+-------------------
+JaCoCo 
+-------------------
+
+* Home `page<http://www.eclemma.org/jacoco/>`_
+
+-------------------
+Cobertura
+-------------------
+
+* Home `page<http://cobertura.github.io/cobertura/>`_
+
+
+============
+Automation tools
+============
+
+-------------------
+SikuliX
+-------------------
+
+* Home `page<http://www.sikuli.org/>`_
+* GitHub `repository<https://github.com/sikuli/sikuli>`_
+* `example 01 <http://www.devengineering.com/blog/testing/how-integrate-sikuli-script-selenium-webdriver>`_
+* `example 02 <http://www.softwaretestinghelp.com/sikuli-tutorial-part-1/>`_
+* `example 03 <https://blog.xceptance.com/2012/02/25/handle-authentication-during-webdriver-testing/>`_
+
+
+============
+Other links ...
+============
+
+-------------------
+Awesome-java
+-------------------
+
+This is a fork of `awesome link <https://github.com/akullpp/awesome-java>`_ with new structure, additional license info and github's star info for every link, with a lot of new links (all non-mobile github projects with 390 or more star) and so on. 
+
+-------------------
+Awesome-java (RV)
+-------------------
+
+* The russian version (awesome-java) is `in this place <https://github.com/Vedenin/useful-java-links/tree/master/link-rus)>`_.  
+
+* The "Hello Worlds examples" project is `in this place<https://github.com/Vedenin/useful-java-links/tree/master/helloworlds>`_.
+
+-------------------
+Selenium
+-------------------
+
+
+* Elemental Selenium `Tips <https://github.com/tourdedave/elemental-selenium-tips>`_
+* `Selenium Camp 2016 <https://github.com/sskorol/selenium-camp-samples>`_ - Effective UI tests scaling on Java
