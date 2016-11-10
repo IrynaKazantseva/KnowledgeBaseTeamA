@@ -69,6 +69,11 @@ branch
 
 * `Pабота <https://www.youtube.com/watch?v=SZARWakrCro&index=22&list=LLlu6Q9bW3XvK4W5tu7Agh-Q>`_  с ветками для начинающих. 
 
+---------------
+SSH Key
+---------------
+
+* Generating an `SSH key <https://help.github.com/articles/generating-an-ssh-key/>`_.
 
 ============
 Continuous Integration
@@ -114,6 +119,26 @@ Cobertura
 -------------------
 
 * Home `page<http://cobertura.github.io/cobertura/>`_
+
+============
+Test Execution Reports
+============
+
+------------------
+Allure Report
+------------------
+
+The Allure Framework is a flexible, lightweight multi-language test report tool, with the possibility of adding to the report of additional information such as screenshots, logs and so on. 
+
+* `example <https://github.com/allure-examples/allure-testng-example>`_
+* `example <https://github.com/OljaSh/TestTaskAuto/blob/master/domain/src/test/java/eu/ipstore/testcases/RegisterNewUserTest.java>`_
+* `Using Yandex Allure Framework <https://m.youtube.com/watch?v=LpU6875hYOM>`_
+
+------------------
+Surefire Report
+------------------
+
+* Maven Surefire Report Plugin home `page <https://maven.apache.org/surefire/maven-surefire-report-plugin/>`_
 
 
 ============
