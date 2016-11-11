@@ -172,7 +172,7 @@ Awesome-java (RV)
 
 * The russian version (awesome-java) is `in this place <https://github.com/Vedenin/useful-java-links/tree/master/link-rus)>`_.  
 
-* The "Hello Worlds examples" project is `in this place<https://github.com/Vedenin/useful-java-links/tree/master/helloworlds>`_.
+* The "Hello Worlds examples" project is `in this place <https://github.com/Vedenin/useful-java-links/tree/master/helloworlds>`_.
 
 -------------------
 Selenium
