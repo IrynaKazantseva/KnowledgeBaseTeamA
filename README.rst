@@ -181,3 +181,4 @@ Selenium
 
 * Elemental Selenium `Tips <https://github.com/tourdedave/elemental-selenium-tips>`_
 * `Selenium Camp 2016 <https://github.com/sskorol/selenium-camp-samples>`_ - Effective UI tests scaling on Java
+* `Here <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/index.html>`_ you can find a large number of primary information about the Selenium, including documentation, tips, current status of the project, links to the source code, libraries, drivers, and more.
