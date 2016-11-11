@@ -112,13 +112,13 @@ Code Coverage
 JaCoCo 
 -------------------
 
-* Home `page<http://www.eclemma.org/jacoco/>`_
+* Home `page <http://www.eclemma.org/jacoco/>`_
 
 -------------------
 Cobertura
 -------------------
 
-* Home `page<http://cobertura.github.io/cobertura/>`_
+* Home `page <http://cobertura.github.io/cobertura/>`_
 
 ============
 Test Execution Reports
@@ -149,8 +149,8 @@ Automation tools
 SikuliX
 -------------------
 
-* Home `page<http://www.sikuli.org/>`_
-* GitHub `repository<https://github.com/sikuli/sikuli>`_
+* Home `page <http://www.sikuli.org/>`_
+* GitHub `repository <https://github.com/sikuli/sikuli>`_
 * `example 01 <http://www.devengineering.com/blog/testing/how-integrate-sikuli-script-selenium-webdriver>`_
 * `example 02 <http://www.softwaretestinghelp.com/sikuli-tutorial-part-1/>`_
 * `example 03 <https://blog.xceptance.com/2012/02/25/handle-authentication-during-webdriver-testing/>`_
