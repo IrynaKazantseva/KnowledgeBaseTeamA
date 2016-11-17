@@ -138,7 +138,7 @@ The Allure Framework is a flexible, lightweight multi-language test report tool,
 Surefire Report
 ------------------
 
-* Maven Surefire Report Plugin home `page <https://maven.apache.org/surefire/maven-surefire-report-plugin/>`_
+* Maven Surefire Report Plugin `home page <https://maven.apache.org/surefire/maven-surefire-report-plugin/>`_
 
 
 ============
@@ -155,6 +155,11 @@ SikuliX
 * `example 02 <http://www.softwaretestinghelp.com/sikuli-tutorial-part-1/>`_
 * `example 03 <https://blog.xceptance.com/2012/02/25/handle-authentication-during-webdriver-testing/>`_
 
+-------------------
+@TestNG
+-------------------
+
+* `Tutorial (rus) <https://habrahabr.ru/post/121234/>`_ 
 
 ============
 Other links ...
@@ -189,8 +194,4 @@ Firefox
 * Firefox `versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
 *  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
 
--------------------
-@TestNG
--------------------
 
-* `Tutorial (rus) <https://habrahabr.ru/post/121234/>`_ 
