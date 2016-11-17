@@ -188,3 +188,9 @@ Firefox
 
 * Firefox `versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
 *  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
+
+-------------------
+@TestNG
+-------------------
+
+* `Tutorial (rus) <https://habrahabr.ru/post/121234/>`_ 
