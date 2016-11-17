@@ -194,4 +194,8 @@ Firefox
 * Firefox `versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
 *  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
 
+============
+JAVA
+============
 
+* `Mkyong.com <https://www.mkyong.com/>`_ is for Java and J2EE developers, all examples are simple and easy to understand, and well tested in my development environment.
