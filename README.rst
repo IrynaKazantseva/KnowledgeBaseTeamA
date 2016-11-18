@@ -194,6 +194,21 @@ Firefox
 * Firefox `versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
 *  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
 
+-------------------
+Firefox
+-------------------
+
+* Firefox `versions <https://ftp.mozilla.org/pub/firefox/releases/>`_.
+*  `WebDriver Element Locator <https://addons.mozilla.org/en-US/firefox/addon/element-locator-for-webdriv/?src=api>`_. This Firefox addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.
+
+-------------------
+Chrome
+-------------------
+* `WebDriver for Chrome <https://sites.google.com/a/chromium.org/chromedriver/>`_
+* `List of Chromium Command Line Switches <http://peter.sh/experiments/chromium-command-line-switches/>`_ There are lots of command lines which can be used with the Google Chrome browser. Some change behavior of features, others are for debugging or experimenting. This page lists the available switches including their conditions and descriptions. Last automated update occurred on 2016-11-18. 
+* `Command Line Switches for Chrome Driver <https://www.linkedin.com/pulse/command-line-switches-chrome-driver-evgeny-tkachenko-6024124673334214656>`_ There are lots of command lines which can be used with the Google Chrome browser. Some change behavior of features, others are for debugging or experimenting.
+
+
 ============
 JAVA
 ============
