@@ -26,6 +26,21 @@ Keep it automated! :)
 
 
 =============
+Selenium WebDriver
+=============
+`Selenium <http://www.seleniumhq.org/>`_ - it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
+
+Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.
+
+----------------
+Logs
+----------------
+
+* `How to use logs (Rus) <https://kreisfahrer.gitbooks.io/selenium-webdriver/content/loggirovanie_v_selenium_webdriver.html>`_ 
+* `Module selenium-webdriver/lib/logging <http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/lib/logging.html>`_ 
+
+
+=============
 Git & GitHub
 =============
 
